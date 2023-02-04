@@ -1,0 +1,39 @@
+#main{
+  margin-top: 20%;
+  background-color: burlywood;
+  margin-left: 20%;
+}
+body{
+  background-color: beige;
+  margin-left: 500px;
+  margin-right: 600px;
+  flex: auto;
+}
+.main-section{
+  background-color:burlywood;
+}
+.inbox1{
+  text-align: center;
+}
+.name{
+  text-align: center;
+}
+.inbox{
+  color: rgb(4, 4, 57);
+}
+.today{
+  color: rgb(4, 4, 36);
+}
+.next{
+  color: rgb(4, 4, 39);
+}
+.new{
+  background: green;
+  color: white;
+}
+.add{
+  background-color: blue;
+}
+.cancel{
+  background-color: red;
+}
